@@ -2,4 +2,4 @@
 
 <div align="center"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" /></div>
 
-# 记录一些自己会用到的脚本,指令,工具
+# 记录一些自己会用到的脚本,指令,工具，教程
