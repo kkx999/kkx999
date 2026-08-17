@@ -13,60 +13,39 @@
   <a href="https://github.com/kkx999/xnat">
     <img src="https://img.shields.io/github/stars/kkx999/xnat?style=for-the-badge&logo=github&label=XNAT%20STARS&color=5865F2" />
   </a>
-  <a href="https://github.com/kkx999/xnat">
-    <img src="https://img.shields.io/github/license/kkx999/xnat?style=for-the-badge&label=LICENSE&color=5865F2" />
-  </a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/kkx999/xnat">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kkx999&repo=xnat&theme=github_dark&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
+## 🚀 Projects
 
 ### ⚡ XNAT
 
 > **Multi-Node NAT VPS Management Platform**
 
-基于 **Incus + LVM Thin** 的多节点 NAT VPS 管理平台。
+基于 **Incus + LVM Thin** 的多节点 NAT VPS 管理平台，采用 **Panel + Host Agent** 架构。
 
-XNAT 采用 **Panel Server + Host Agent** 分离架构，
-专注于 NAT VPS、多宿主机节点、用户、套餐、流量、支付、通知及日常运维管理。
+`Multi-Node` · `Incus` · `LVM Thin` · `NAT VPS` · `LXC / KVM` · `Automation`
 
-<p>
-  <img src="https://img.shields.io/badge/Debian-12-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Incus-Container-5865F2?style=flat-square" />
-  <img src="https://img.shields.io/badge/LVM-Thin-5865F2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Multi--Node-Panel%20%2B%20Agent-5865F2?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-MIT-5865F2?style=flat-square" />
-</p>
+<a href="https://github.com/kkx999/xnat">
+  <img src="https://img.shields.io/badge/View_XNAT-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-#### Highlights
+<br/><br/>
 
-* 🖥️ Multi-Node Panel + Host Agent
-* 📦 Incus + LVM Thin
-* ⚡ NAT VPS 自动开通 / 重装 / 删除
-* 🌐 TCP / UDP NAT Port Management
-* 📊 Traffic & Resource Management
-* 💰 USDT Recharge
-* 🔔 Telegram / SMTP Notifications
-* ☁️ Cloudflare & HTTPS
-* 🛡️ Host / Port Security Protection
-* 🧰 Unified `xnat` Management CLI
+### 📱 XNAT Android
 
-<p>
-  <a href="https://github.com/kkx999/xnat">
-    <img src="https://img.shields.io/badge/View_XNAT-5865F2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+> **Official Android Client for XNAT**
+
+XNAT 原生 Android 客户端，支持服务器管理、NAT 端口、系统重装、账务、工单与服务购买。
+
+`Android` · `Mobile API` · `VPS Management` · `Dark / Light`
+
+<a href="https://github.com/kkx999/XNAT-Android">
+  <img src="https://img.shields.io/badge/View_XNAT_Android-5865F2?style=for-the-badge&logo=android&logoColor=white" />
+</a>
 
 ---
 
@@ -76,7 +55,7 @@ XNAT 采用 **Panel Server + Host Agent** 分离架构，
 
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge\&logo=debian\&logoColor=A81D33)
-![Containers](https://img.shields.io/badge/Containers-0D1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge\&logo=android\&logoColor=3DDC84)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge\&logo=cloudflare\&logoColor=F38020)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-0D1117?style=for-the-badge\&logo=githubactions\&logoColor=2088FF)
