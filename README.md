@@ -25,6 +25,8 @@
 
 > **多节点 NAT VPS 管理平台**
 
+当前版本：**v1.4.3**
+
 基于 **Incus + LVM Thin** 的多节点 NAT VPS 管理平台，采用 **Panel + Host Agent** 架构。
 
 `多节点` · `Incus` · `LVM Thin` · `NAT VPS` · `LXC / KVM` · `自动化`
@@ -43,6 +45,8 @@
 
 > **XNAT 官方 Android 客户端**
 
+当前版本：**v1.2.0**
+
 XNAT 原生 Android 客户端，支持服务器管理、NAT 端口、系统重装、账务、工单与服务购买。
 
 `Android` · `移动端 API` · `VPS 管理` · `深色 / 浅色`
@@ -54,6 +58,44 @@ XNAT 原生 Android 客户端，支持服务器管理、NAT 端口、系统重�
 <br/>
 
 [问题反馈](https://github.com/kkx999/XNAT-Android/issues) · [版本发布](https://github.com/kkx999/XNAT-Android/releases)
+
+### 🛰️ XVPN Panel
+
+> **XVPN Android 配套控制面板**
+
+当前版本：**v1.0**
+
+配套 **XVPN Android + Mihomo Core**，提供节点管理、用户与邀请码、流量统计、版本控制、备份及通知等功能。
+
+`Mihomo` · `节点管理` · `流量统计` · `版本控制` · `自动化`
+
+<a href="https://github.com/kkx999/xvpn">
+  <img src="https://img.shields.io/badge/查看_XVPN_Panel-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="查看 XVPN Panel 仓库" />
+</a>
+
+<br/>
+
+[问题反馈](https://github.com/kkx999/xvpn/issues) · [版本发布](https://github.com/kkx999/xvpn/releases)
+
+<br/>
+
+### 🛡️ XVPN Android
+
+> **基于 Mihomo 的 Android 原生网络客户端**
+
+当前版本：**v1.1.0**
+
+支持节点自动优选、智能分流、全局代理、流量统计、连接状态恢复与应用内安全更新。
+
+`Android` · `Mihomo` · `智能分流` · `全局代理` · `应用内更新`
+
+<a href="https://github.com/kkx999/XVPN-Android">
+  <img src="https://img.shields.io/badge/查看_XVPN_Android-5865F2?style=for-the-badge&logo=android&logoColor=white" alt="查看 XVPN Android 仓库" />
+</a>
+
+<br/>
+
+[问题反馈](https://github.com/kkx999/XVPN-Android/issues) · [版本发布](https://github.com/kkx999/XVPN-Android/releases)
 
 ---
 
@@ -81,3 +123,9 @@ XNAT 原生 Android 客户端，支持服务器管理、NAT 端口、系统重�
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kkx999&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5865F2" alt="KK 的常用语言统计" loading="lazy" />
 
 </div>
+
+---
+
+## 免责声明
+
+以上项目仅供学习、研究与技术交流使用。使用者应遵守所在地法律法规，不得将相关项目用于任何违法或未经授权的用途。因使用相关项目产生的任何违法行为、损失或法律责任均由使用者自行承担，与项目作者及贡献者无关。
