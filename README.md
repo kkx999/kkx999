@@ -33,7 +33,11 @@
   <img src="https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B_XNAT-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="查看 XNAT 仓库" />
 </a>
 
-<br/><br/>
+<br/>
+
+[问题反馈](https://github.com/kkx999/xnat/issues) · [版本发布](https://github.com/kkx999/xnat/releases)
+
+<br/>
 
 ### 📱 XNAT Android
 
@@ -46,6 +50,10 @@ XNAT 原生 Android 客户端，支持服务器管理、NAT 端口、系统重�
 <a href="https://github.com/kkx999/XNAT-Android">
   <img src="https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B_XNAT_Android-5865F2?style=for-the-badge&logo=android&logoColor=white" alt="查看 XNAT Android 仓库" />
 </a>
+
+<br/>
+
+[问题反馈](https://github.com/kkx999/XNAT-Android/issues) · [版本发布](https://github.com/kkx999/XNAT-Android/releases)
 
 ---
 
