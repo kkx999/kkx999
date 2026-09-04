@@ -34,10 +34,6 @@
 
 </div>
 
-<p align="center">
-Linux / Debian · VPS 与虚拟化 · 自动化部署 · Android · 网络服务 · GitHub Actions
-</p>
-
 ---
 
 ## 📊 GitHub 数据
