@@ -15,9 +15,6 @@
   <a href="https://github.com/kkx999">
     <img src="https://img.shields.io/github/followers/kkx999?style=for-the-badge&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=5865F2" alt="GitHub 关注者数量" />
   </a>
-  <a href="https://github.com/kkx999/xnat">
-    <img src="https://img.shields.io/github/stars/kkx999/xnat?style=for-the-badge&logo=github&label=XNAT%20%E6%98%9F%E6%A0%87&color=5865F2" alt="XNAT GitHub 星标数量" />
-  </a>
 </p>
 
 </div>
