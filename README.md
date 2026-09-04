@@ -7,11 +7,6 @@
 ### 构建简单、可靠、可维护的基础设施工具。
 
 <p>
-专注于 <b>VPS 管理</b>、<b>基础设施自动化</b>、<b>网络服务</b> 与 <b>Android 客户端</b>，<br/>
-倾向于把复杂的部署、运维和管理流程做成真正易用的工具。
-</p>
-
-<p>
   <a href="https://github.com/kkx999">
     <img src="https://img.shields.io/github/followers/kkx999?style=for-the-badge&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=5865F2" alt="GitHub 关注者数量" />
   </a>
