@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2400&pause=900&color=5865F2&center=true&vCenter=true&width=760&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B+%E6%88%91%E6%98%AF+KK;%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD+%C2%B7+VPS+%C2%B7+%E8%87%AA%E5%8A%A8%E5%8C%96;%E8%AE%A9%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%AE%A1%E7%90%86%E6%9B%B4%E7%AE%80%E5%8D%95" alt="KK 的 GitHub 主页动态标题" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2400&pause=900&color=5865F2&center=true&vCenter=true&width=680&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B+%E6%88%91%E6%98%AF+KK;%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD+%C2%B7+VPS+%C2%B7+%E8%87%AA%E5%8A%A8%E5%8C%96;%E8%AE%A9%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%AE%A1%E7%90%86%E6%9B%B4%E7%AE%80%E5%8D%95" alt="KK 的 GitHub 主页动态标题" />
 
 <br/>
 
-### 构建简单、可靠、可维护的基础设施工具。
+<strong>构建简单、可靠、可维护的基础设施工具。</strong>
 
-<p>
-  <a href="https://github.com/kkx999">
-    <img src="https://img.shields.io/github/followers/kkx999?style=for-the-badge&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=5865F2" alt="GitHub 关注者数量" />
-  </a>
-</p>
+<br/><br/>
+
+<a href="https://github.com/kkx999">
+  <img src="https://img.shields.io/github/followers/kkx999?style=for-the-badge&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=5865F2" alt="GitHub 关注者数量" />
+</a>
 
 </div>
 
